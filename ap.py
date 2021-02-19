@@ -3,6 +3,11 @@ def fun1():
 
 fun1()
 
+def fun2():
+	print("2nd func by P")
+
+fun2()
+
 def fun3():
 	print("3rd func by P")
 
