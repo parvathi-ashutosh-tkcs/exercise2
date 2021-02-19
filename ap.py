@@ -3,7 +3,7 @@ def fun1():
 
 fun1()
 
-def fun2():
-	print("2nd func by P")
+def fun3():
+	print("3rd func by P")
 
-fun2()
+fun3()
