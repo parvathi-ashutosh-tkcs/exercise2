@@ -3,7 +3,3 @@ def fun1():
 
 fun1()
 
-def fun3():
-	print("3rd func P in branch_image")
-
-fun3()
